@@ -14,8 +14,8 @@
 
 6. change directory into `~/failking/` and `git init --bare repo`
 
-7. create identity for ssh connection into the aws server inside .ssh/config
+7. create identity for ssh connection into the aws server inside `.ssh/config`
 
-8. clone repo to my computer using git clone git@awsgit:failking/awsRepo.git
+8. clone repo to my computer using `git clone git@awsgit:failking/awsRepo.git`
 
 ![successful clone screenshot](clonedNotSSH.PNG)
