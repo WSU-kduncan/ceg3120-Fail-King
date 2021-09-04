@@ -18,4 +18,32 @@
 
 8. clone repo to my computer using `git clone git@awsgit:failking/awsRepo.git`
 
+
+## Using the Repo:
+
+1. On my local machine I need to change my git config to have my email and name to be able to commit.
+    - using:
+        - `git config --global user.name "Chris K"`
+        - `git config --global user.email "kemplin.christopher@gmail.com"`
+
+2. Navigate to the awsRepo on my local machine inside Ubuntu using WSL2
+
+3. `touch sample.txt` and add some text to it just because.
+
+### adding:
+
+    - while inside the repo still, `git add sample.txt`
+
+### commiting:
+
+    - while inside the repo still, 'git commit -m "committing sample.txt"`
+
+### pushing:
+
+    -  while inside the repo still, `git push`
+
+## The Pudding
+
+![repo existing on aws](exists.png)
+
 ![successful clone screenshot](clonedNotSSH.PNG)
