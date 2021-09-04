@@ -44,6 +44,6 @@
 
 ## The Pudding
 
-![repo existing on aws](exists.png)
+![repo existing on aws](exists.PNG)
 
 ![successful clone screenshot](clonedNotSSH.PNG)
