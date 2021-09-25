@@ -3,9 +3,10 @@
 1. To use the API we must get the oAuth from the discord developer page online by signing up with our profile.
 2. The oAuth token must be stored in a .env file inside the same directory as the source code
 3. I had to download pip, and python3 to use this code.  I had to install python-dotenv to allow environment variables to be pulled from the .env file and discord.py to use discord API functions.  I also had to add sources to the /etc/apt/sources-list using this thread https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
--to install python and pip I used sudo apt install python3; sudo apt install python3-pip
--to install the discord api I used pip install -U discord.py
--to install dotenv I used pip install -U python-dotenv
+###
+	-to install python and pip I used sudo apt install python3; sudo apt install python3-pip
+	-to install the discord api I used pip install -U discord.py
+	-to install dotenv I used pip install -U python-dotenv
 ## Usage
 ###
 - If you type in '!princess', my bot will spit out a random princess bride quote into the terminal as well as the original functionality.
