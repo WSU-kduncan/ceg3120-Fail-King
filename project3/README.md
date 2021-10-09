@@ -6,7 +6,7 @@
 
 2. Image
 
-![vpc image](vpcCap.png)
+![vpc image](vpcCap.PNG)
 
 ## Subnet mask
 ###
@@ -14,14 +14,15 @@
 
 2. Image
 
-![subnet image](subnetCap.png)
+![subnet image](subnetCap.PNG)
 
 ## Gateway
 ###
 1. The gateway is like its name implies, it is the gateway between the private network and the public network.  All traffic coming in to the and out of the network must pass through the gateway. The gateway converts public ip packets to local ip packets.
 
 2. Image
-![subnet image](gatewayCap.png)
+
+![subnet image](gatewayCap.PNG)
 
 ## Route Table
 ###
@@ -29,11 +30,12 @@
 
 2. Image
 
-![routetable image](routeCap.png)
+![routetable image](routeCap.PNG)
 
 ## Security Group
 ###
 1. The security group sets a group set of rules that act much like a firewall would.  These rules can allow ssh traffic or just about any traffic that you know the protocol and/or the port for.
 
 2. Image
-![SecurityGroup image](securityCap.png)
+
+![SecurityGroup image](securityCap.PNG)
