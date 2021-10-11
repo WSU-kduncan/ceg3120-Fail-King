@@ -58,6 +58,10 @@
 
 7. I must go to the elastic IP addresses on the left side of ec2 and allocate an IP address and then associate it with my instance.
 
+8.
 ![ElasticIP](elasticIPCap.PNG)
 
-8. 
+9. I ran sudo hostnamectl set-hostname KEMPLIN-Ubuntu20.04LTS. If I am being totally honest I didn't back up the files I didn't realize that this command was changing the values in those files I thought the later commands in the guide did, and then I realized that it said to use those on older versions of Linux
+
+10. 
+![ssh](sshCap.PNG)
