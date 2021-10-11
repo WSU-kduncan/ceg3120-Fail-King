@@ -55,3 +55,9 @@
 5. In stage 5 of instance creation I created a Name tag that contains p3InstanceCSK (got ahead of myself and created this before actually reading there was an expected name)
 
 6. In the security group tab I just selected choose from existing and then chose the security group I created from the list
+
+7. I must go to the elastic IP addresses on the left side of ec2 and allocate an IP address and then associate it with my instance.
+
+![ElasticIP](elasticIPCap.PNG)
+
+8. 
