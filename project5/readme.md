@@ -24,3 +24,4 @@ I have set up the proxy's host file so now I can just connect using the private 
 3. I set the the ownership to the $USER environment variable. then I had to set the file permissions to 755. after that I used my .conf file to set the servername, serveralias, and documentroot.  after that you must enable your config using a2ensite and disable the default config using a2dissite 000-default.conf.  checked the config using apache2ctl config test, and then I was ready to restart apache.
 4. I restarted the server using sudo systemctl restart apache2
 5. I used https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04 to set up apache.
+test
